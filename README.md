@@ -27,6 +27,7 @@ La estructura actualizada será la siguiente:
 ## Desplegar en render
 - https://dashboard.render.com/
 
+1. Nos validamos, puede ser con el usuario de github
 
 # PISTAS:
 - Ejemplos de como documentar en swagger: https://docs.google.com/presentation/d/13kmc77HqbdCoXCm62nT0CmOw62ryB3LxC6vWJ1mgQdU/edit?usp=sharing
